@@ -1,16 +1,7 @@
-# flappy_bird
+A fun, Flutter-based recreation of the classic Flappy Bird game. In this project, players control a bird that needs to navigate through obstacles to earn points, with the game mechanics and UI inspired by the original Flappy Bird.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Tap-to-jump mechanics for easy gameplay.
+Real-time score counter.
+Smooth animations and collision detection.
+Simple, clean UI with customizable assets.
