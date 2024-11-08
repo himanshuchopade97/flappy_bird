@@ -1,3 +1,5 @@
+# Flappy Bird
+
 A fun, Flutter-based recreation of the classic Flappy Bird game. In this project, players control a bird that needs to navigate through obstacles to earn points, with the game mechanics and UI inspired by the original Flappy Bird.
 
 Features
